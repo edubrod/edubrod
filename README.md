@@ -2,7 +2,7 @@
 
 Me chamo Eduardo Brod. 👋
 
-🧰 Trabalho na área de TI a pouco mais de 10 anos atuando no atendimento e suporte a usuários e infraestrutura de redes e servidores.<br>
+🧰 Trabalho na área de TI a pouco mais de 10 anos atuando no atendimento e suporte a usuários, infraestrutura de redes e servidores.<br>
 🎓 Formando em Analise e desenvolvimento de sistemas.<br>
 🌱 Atualmente estou estudando e buscando cada vez mais conhecimento para poder atuar na área de front-end.
 
